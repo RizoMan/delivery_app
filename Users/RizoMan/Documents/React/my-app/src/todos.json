@@ -1,0 +1,22 @@
+{
+    "todos" : [
+        {
+            "title": "Task 1",
+            "author": "Mark",
+            "description": "Lorea el ipsum",
+            "priority": "low"
+        },
+        {
+            "title": "Task 2",
+            "author": "Ryan",
+            "description": "Lorea el ipsum",
+            "priority": "medium"
+        },
+        {
+            "title": "Task 3",
+            "author": "Joseph",
+            "description": "Lorea el ipsum",
+            "priority": "highs"
+        }
+    ]
+}
