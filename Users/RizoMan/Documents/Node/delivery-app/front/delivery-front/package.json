@@ -1,0 +1,19 @@
+{
+  "name": "delivery-front",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "antd": "^4.5.3",
+    "axios": "^0.19.2",
+    "next": "9.5.1",
+    "react": "16.13.1",
+    "react-bulma-components": "3.4.0",
+    "react-dom": "16.13.1",
+    "react-hook-form": "^6.3.1"
+  }
+}
